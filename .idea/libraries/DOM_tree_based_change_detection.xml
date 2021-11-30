@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="DOM-tree-based-change-detection">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DOM-tree-based-change-detection/domdiff-writer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DOM-tree-based-change-detection/api-monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

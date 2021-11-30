@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="visualsearch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VisualSearch/visualsearch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
